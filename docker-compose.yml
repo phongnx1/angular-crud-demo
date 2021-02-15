@@ -3,4 +3,4 @@ services:
   angular-demo:
     image: phongnx/angular-demo:latest
     ports:
-      - "4100:80"
+      - "4200:80"
